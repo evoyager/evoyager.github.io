@@ -1,5 +1,5 @@
 ---
-title: Блог для программиста
+title: Перевел блог с Ghost на Wordpress
 date: 2021-10-23T01:50:05+03:00
 layout: post
 guid: https://64.227.125.48/?p=42

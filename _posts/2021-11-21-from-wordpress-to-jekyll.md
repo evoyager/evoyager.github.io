@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Блоги которые рекомендую"
+title: "Перевел блог с Wordpress на Jekyll"
 date: 2021-10-25 22:54:39 +0300
 permalink: '/2021/10/25/recommended-blogs/'
 comments: true
