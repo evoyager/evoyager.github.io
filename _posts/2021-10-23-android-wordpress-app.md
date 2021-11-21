@@ -1,5 +1,4 @@
 ---
-id: 44
 title: Пишу с Android
 date: 2021-10-23T10:02:53+03:00
 layout: post

@@ -1,9 +1,7 @@
 ---
-id: 88
-title: Блоги которые рекомендую
-date: 2021-10-25T22:54:39+03:00
 layout: post
-guid: https://egu.link/?p=88
+title: "Блоги которые рекомендую"
+date: 2021-10-25 22:54:39 +0300
 permalink: '/2021/10/25/recommended-blogs/'
 categories:
   - Без рубрики
