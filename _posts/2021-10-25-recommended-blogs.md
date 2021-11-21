@@ -3,6 +3,7 @@ layout: post
 title: "Блоги которые рекомендую"
 date: 2021-10-25 22:54:39 +0300
 permalink: '/2021/10/25/recommended-blogs/'
+comments: false
 categories:
   - Без рубрики
 tags:
