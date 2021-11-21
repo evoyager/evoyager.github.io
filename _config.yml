@@ -30,9 +30,12 @@ twitter_username: evgenygusar
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag  
 
 disqus:
     shortname: egu
+show_excerpts: true    
+favicon: "./favicon.ico"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
