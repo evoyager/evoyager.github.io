@@ -9,8 +9,6 @@ categories:
 tags:
   - Блоги
 ---
-Обзор платных курсов которые я купил
-
 Java:  
 Java rush    
 Javabegin.ru  
