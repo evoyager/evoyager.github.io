@@ -1,4 +1,15 @@
-Paid courses review
+---
+layout: post
+title: "Перевел блог с Wordpress на Jekyll"
+date: 2021-12-02 10:00:00 +0300
+permalink: '/2021/12/02/paid-courses-review/'
+comments: true
+categories:
+  - Без рубрики
+tags:
+  - Блоги
+---
+Обзор платных курсов которые я купил
 
 Java:  
 Java rush    
